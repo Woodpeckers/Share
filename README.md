@@ -5,18 +5,8 @@
 ## 一、效果展示
 
 ### 1、Material Design 中文版（有侧边栏菜单）
-- 页面效果：<http://zitiao.org/material-design/>
-- 文档仓库：<https://github.com/zitiaocn/material-design>
-
-![](http://om0iml27u.bkt.clouddn.com/2017/02/ti8wn.jpg)
 
 ### 2、GitBook Help Center（无侧边栏菜单）
-- 页面效果：<https://help.gitbook.com/>
-- 文档仓库：<https://github.com/GitbookIO/help.gitbook.com>
-
-![](http://cdn.zitiao.org/deploy/s5daq.jpg)     
-    
-![](http://cdn.zitiao.org/deploy/s011v.jpg)
 
 ## 二、功能特性
 
